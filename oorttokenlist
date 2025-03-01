@@ -1,0 +1,20 @@
+{
+  "name": "OORT DEX Token List",
+  "timestamp": "2025-02-28T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "keywords": ["oort", "dex"],
+  "tokens": [
+    {
+      "chainId": 970,
+      "address": "0x9aF45E84806C90B0b1FcB092CB0026271D329Df5",
+      "name": "Apechain AI: Thousand Monkeys Thousand Typewriters",
+      "symbol": "APEAI",
+      "decimals": 18,
+    },
+  ]
+}
